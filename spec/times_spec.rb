@@ -4,4 +4,4 @@ def using_times
   end
 end
 
-puts "#{7.times"
+puts "#{7.times} Wingardium Leviosa"
