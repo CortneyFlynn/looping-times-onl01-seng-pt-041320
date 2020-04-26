@@ -10,4 +10,6 @@ describe "#using_times" do
 end
 
 def using_times
-  puts 
+  puts "Wingardium Leviosa"
+end
+end
