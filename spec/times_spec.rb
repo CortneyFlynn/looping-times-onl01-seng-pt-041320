@@ -9,3 +9,5 @@ describe "#using_times" do
 	end
 end
 
+def using_times
+  puts 
